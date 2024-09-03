@@ -5,7 +5,7 @@ TypeScript, Angular, SQL Server, Versionamento
 de sistemas (GitHub)
  </h2>
  <p align="center">
-	 Foi desenvolvida uma API REST para gerenciar um estacionamento fictício, permitindo criar, atualizar, selecionar e deletar clientes e vagas. A API diferencia perfis de usuário, com permissões distintas para administradores e clientes; os clientes devem estar autenticados para acessar seus recursos. Administradores têm acesso completo para gerenciar clientes e vagas, enquanto clientes podem acessar apenas suas informações e reservas. A API implementa controle de acesso baseado em roles, garantindo que as funcionalidades sejam disponibilizadas conforme o perfil do usuário.
+	 O objetivo do treinamento foi criar uma API web utilizando a IDE do Visual Studio 2022 com a linguagem C#. Durante o desenvolvimento, foram abordados conceitos essenciais como a implementação do padrão repositório, configuração de controllers para atender às requisições HTTP, uso de métodos assíncronos, e conexão ao banco de dados utilizando ADO. Além disso, o curso incluiu práticas de tratamento de erros, criação de arquivos de log para salvar erros em texto, e implementação de cache. Para consumir a API, foi desenvolvida uma aplicação web utilizando Angular na versão 17.
  </p>
 
  <div align="center">
