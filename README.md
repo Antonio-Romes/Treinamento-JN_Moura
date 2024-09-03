@@ -28,3 +28,22 @@ de sistemas (GitHub)
 <h4 align="center"> 
 	🚧  API 🚀 Em desenvolvimento...  🚧
 </h4>
+# Tecnologias 
+
+As seguintes ferramentas foram usadas na construção do projeto: 
+
+![Angular](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+ 
+
+  # Autor
+---
+
+ <b>Antonio Romes</b>🚀
+
+Feito por Antonio Romes 👋🏽 Entre em contato!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-romes/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonio_romes_lima/)
+[![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:antonioromes1@hotmail.com) 
