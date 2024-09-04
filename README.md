@@ -32,7 +32,7 @@ de sistemas (GitHub)
 
 As seguintes ferramentas foram usadas na construção do projeto: 
 
-![Angular](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-de1c08.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
  
