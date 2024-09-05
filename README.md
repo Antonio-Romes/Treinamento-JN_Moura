@@ -11,16 +11,15 @@ de sistemas (GitHub)
  <div align="center">
 	 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) 
-![Java](https://img.shields.io/badge/Java-v21-orange.svg) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Antonio-Romes/demo-park-api)](https://github.com/Antonio-Romes/demo-park-api/commits/master)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Antonio-Romes/demo-park-api)](https://github.com/Antonio-Romes/demo-park-api/pulls)
-[![GitHub issues](https://img.shields.io/github/issues/Antonio-Romes/demo-park-api)](https://github.com/Antonio-Romes/demo-park-api/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Antonio-Romes/demo-park-api)](https://github.com/Antonio-Romes/demo-park-api/network)
-[![GitHub stars](https://img.shields.io/github/stars/Antonio-Romes/demo-park-api)](https://github.com/Antonio-Romes/demo-park-api/stargazers)
-![GitHub repo size](https://img.shields.io/github/repo-size/Antonio-Romes/demo-park-api)
-![GitHub top language](https://img.shields.io/github/languages/top/Antonio-Romes/demo-park-api.svg)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Antonio-Romes/demo-park-api)
-![GitHub language count](https://img.shields.io/github/languages/count/Antonio-Romes/demo-park-api)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/Antonio-Romes/Treinamento-JN_Moura)](https://github.com/Antonio-Romes/Treinamento-JN_Moura/commits/master)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Antonio-Romes/Treinamento-JN_Moura)](https://github.com/Antonio-Romes/Treinamento-JN_Moura/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/Antonio-Romes/Treinamento-JN_Moura)](https://github.com/Antonio-Romes/Treinamento-JN_Moura/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Antonio-Romes/Treinamento-JN_Moura)](https://github.com/Antonio-Romes/Treinamento-JN_Moura/network)
+[![GitHub stars](https://img.shields.io/github/stars/Antonio-Romes/Treinamento-JN_Moura)](https://github.com/Antonio-Romes/Treinamento-JN_Moura/stargazers)
+![GitHub repo size](https://img.shields.io/github/repo-size/Antonio-Romes/Treinamento-JN_Moura)
+![GitHub top language](https://img.shields.io/github/languages/top/Antonio-Romes/Treinamento-JN_Moura.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Antonio-Romes/Treinamento-JN_Moura)
+![GitHub language count](https://img.shields.io/github/languages/count/Antonio-Romes/Treinamento-JN_Moura)  
  </div>
 <h1 align="center">
     🔗 Criação de Api e Angular.
