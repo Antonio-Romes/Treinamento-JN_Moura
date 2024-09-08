@@ -10,7 +10,7 @@ de sistemas (GitHub)
 
  <div align="center">
 	 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) 
+
 [![GitHub last commit](https://img.shields.io/github/last-commit/Antonio-Romes/Treinamento-JN_Moura)](https://github.com/Antonio-Romes/Treinamento-JN_Moura/commits/master)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Antonio-Romes/Treinamento-JN_Moura)](https://github.com/Antonio-Romes/Treinamento-JN_Moura/pulls)
 [![GitHub issues](https://img.shields.io/github/issues/Antonio-Romes/Treinamento-JN_Moura)](https://github.com/Antonio-Romes/Treinamento-JN_Moura/issues)
